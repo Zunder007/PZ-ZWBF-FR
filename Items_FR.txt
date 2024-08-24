@@ -1,5 +1,7 @@
 Items_FR = {
-    DisplayNameContraceptive        = "Contraceptif",
-    DisplayNameMilkBottle           = "Bouteille de lait",
-    DisplayNameMilkBottle_rotten    = "Bouteille de lait (pourri)",
+    DisplayNameContraceptive = "Contraceptif",
+    DisplayNameMilkBottle = "Bouteille de lait",
+    DisplayNameMilkBottle_rotten = "Bouteille de lait (pourri)",
+    DisplayNameVaginalDouche_Empty = "Poire à lavement (Vide)",
+    DisplayNameVaginalDouche_Full = "Poire à lavement (Pleine)",
 }
