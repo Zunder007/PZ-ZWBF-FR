@@ -30,4 +30,5 @@ ContextMenu_FR = {
 	ContextMenu_Milk_Clear_Milk_Title = "(DEBUG) Supprimer le lait",
 	ContextMenu_Milk_Clear_Milk_Description = "Régle le lait à 0",
 	ContextMenu_BreastFeed_Baby = "Allaiter le bébé",
+	ContextMenu_Clean_Sperm = "Nettoyez votre utérus",
 }
